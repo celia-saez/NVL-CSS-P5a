@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Box model</title>
+  </head>
+  <body>
+    <p>Margin</p>
+    <p>Border</p>
+    <p>Padding</p>
+  </body>
+</html>
+
+div Margin {
+   background-color: red;
+   background-position: 10px;
+   }
+div Border {
+   background-color: orange;
+   background-position: 16px;
+  }
+div Padding {
+   background-color: yellow;
+   backround-position: 32px;
+  }
+  
